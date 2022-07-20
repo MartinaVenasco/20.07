@@ -1,0 +1,19 @@
+.footer { background-color: rgba(71, 185, 182, 0.522);
+padding:30px;
+display: flex;
+color:rgb(4, 50, 46);
+border-top-left-radius:30px;
+border-top-right-radius: 30px;
+justify-content: space-between;
+}
+
+input {border-radius: 30px;
+border-color: whitesmoke;}
+
+.submit {border-radius: 100px;
+	color:white;
+	border-color: whitesmoke;
+background-color: rgb(2, 77, 77);
+}
+.submit:hover {color:white;
+background-color: aqua;}

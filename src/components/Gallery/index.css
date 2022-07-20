@@ -1,0 +1,7 @@
+.gallery {display: flex;
+flex-direction: row;
+gap: 30px;
+justify-content: center;
+margin-top: 60px;
+margin-bottom: 20px;}
+.gallery-image {border-radius: 30px;}
